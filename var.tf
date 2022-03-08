@@ -21,3 +21,7 @@ variable vpc_id {
 variable subnet_id {
    default = "will be apply"
 }
+
+variable vpc_cidr {
+   default = "will be apply"
+}
