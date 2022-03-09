@@ -11,7 +11,7 @@ variable "rds_port" {
 }
 
 variable "rds_password" {
-  default = "fake-password"
+  default = "Fake@2020Pass"
 }
 
 variable vpc_id {
